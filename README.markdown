@@ -1,3 +1,6 @@
+---
+---
+
 # Robo
 
 Robo is a simple [Jekyll](http://jekyllrb.com) theme that you can use for your blog. 
